@@ -1,7 +1,7 @@
-streamlit as st
-numpy as np
-pandas as pd
+streamlit
+numpy
+pandas
 joblib
-plotly.express as px
-plotly.graph_objects as go
+plotly
+plotly
 base64
